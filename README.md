@@ -1,6 +1,8 @@
 # Texas-holde-m-Probability-CAL
 Probability Calculator
 
+*use python
+
 
 *funtion explane 
 1. calculate_pot_odds Function
